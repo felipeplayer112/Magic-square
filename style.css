@@ -1,0 +1,33 @@
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note {
+    font-size: 15px;
+    background-color: grey;
+    border-radius: 5px;
+}
+
+.rodape {
+    position: fixed;
+    color: rgb(0, 0, 0);
+    background-color: grey;
+    width: 100%;
+   bottom: 0;
+}
+
+canvas {
+    border: 5px solid black;
+    border-radius: 15px;
+    box-shadow: 4px 4px 3px grey;
+}
+
+video {
+    border-radius: 15px;
+    border: 5px solid black;
+    box-shadow: 4px 4px 3px grey;
+    background-color: grey;
+}
